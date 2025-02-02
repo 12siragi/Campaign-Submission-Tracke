@@ -2,6 +2,8 @@
 
 ## Description
 A feature that allows influencers to track ongoing campaigns, view their submission statuses, and upload content.
+![alt text](https://github.com/12siragi/Campaign-Submission-Tracke/blob/main/a2.PNG?raw=true)
+![alt text](https://github.com/12siragi/Campaign-Submission-Tracke/blob/main/aaa.PNG?raw=true)
 
 ## Features
 - View a list of ongoing campaigns with statuses and deadlines.
